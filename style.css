@@ -19,7 +19,7 @@ main{
 .content-box{
   width: 300px;
   background-color: #EEEEEE;
-  margin-left: 30px;
+
   padding: 10px;
   position: relative;
 }  
@@ -57,6 +57,7 @@ footer{
 }
 
 
+
 @media screen and (max-width:768px){
 
   main{
@@ -66,10 +67,15 @@ footer{
   .content-box{
     width: 90%;
     margin:0 auto;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     padding-left: 2%;
     padding-right: 2%;
   }
+  footer{
+    margin-top: 50px;
+  }
+  
+
   
   
 }
