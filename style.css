@@ -63,8 +63,9 @@ footer{
     width: 100%;
     display: block;
   }
-  .conten-box{
-    width: 100%;
+  .content-box{
+    width: 90%;
+    margin:0 auto;
     margin-bottom: 10px;
     padding-left: 2%;
     padding-right: 2%;
